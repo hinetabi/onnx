@@ -1,0 +1,6 @@
+sentence-transformers
+txtai
+codetiming
+onnxruntime
+optimum[onnxruntime, exporters]
+dvc[gdrive]
