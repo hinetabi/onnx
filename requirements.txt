@@ -3,4 +3,4 @@ txtai
 codetiming
 onnxruntime
 optimum[onnxruntime, exporters]
-dvc[gdrive]
+dvc[gdrive, ssh]
